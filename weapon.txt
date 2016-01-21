@@ -1,0 +1,30 @@
+019,Restless Tsunami Blade of Death,ordinary,1895.6,1.4,57590,
+003,Insightful Honed Spear of Blight,ordinary,1592.4,1.6,53864,
+026,Insightful Dire Axe of Death,ordinary,1927.2,1.4,53918,
+004,The Burning Axe of Sankies,legendary,2135.2,1.3,97431,0.05
+007,Envious Blade,legendary,1906.5,1.4,89843,0.11
+006,Solanium,legendary,2108.4,1.3,10284,0.07
+027,Draining Point,ordinary,1827.0,1.5,80016,
+018,Unearthly Obsidian Skiver of Death,ordinary,1701.2,1.3,63881,
+009,Killing Flag,ordinary,1770.6,1.4,86226,
+020,Glacial Tecpatl of Death,ordinary,2031.4,1.3,38004,
+011,Death Mettle,ordinary,1584.2,1.5,42110,
+023,Socketed Brutalizer of Death,ordinary,1734.6,1.4,37864,
+013,Wizard Spike,legendary,1977.4,1.4,121132,0.06
+024,Exarian,legendary,2184.7,1.35,152324,0.09
+015,Devil Tongue,legendary,2171.5,1.4,154032,0.09
+016,Monster Hunter,legendary,2121.8,1.4,113425,0.1
+017,Wildwood,legendary,2034.5,1.4,119895,0.08
+008,The Ancient Bonesaber,legendary,2198.4,1.4,152213,0.09
+001,Thunderfury-Blessed Blade,legendary,2464.3,1.4,399452,0.15
+002,Shard of Hate,legendary,2399.8,1.4,289432,0.12
+021,Utar's Roar,legendary,2294.2,1.3,183243,0.1
+029,Exalted Fine Galraki,ordinary,1940.2,1.3,89843,
+012,Dawn,ordinary,1898.0,1.6,87874,
+014,Adept Enchanter Wand,ordinary,2000.0,1.4,90932,
+025,Hallowed Scepter,legendary,2365.3,1.4,163455,0.12
+010,Kridershot,legendary,2234.2,1.4,113453,0.09
+005,Grandmaster Chain Mace,ordinary,2109.3,1.2,79858,
+028,Glorious Wicked Flail,ordinary,2087.4,1.2,90943,
+022,Manticore,legendary,2321.2,1.1,149654,0.09
+030,Flying Dragon,legendary,2388.3,1.1,198423,0.13
